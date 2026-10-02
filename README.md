@@ -1,0 +1,2 @@
+# MahJourney
+Mahjong + PokemonGo
